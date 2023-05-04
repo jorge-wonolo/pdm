@@ -18,6 +18,7 @@ dependencies = [
     "virtualenv>=20",
     "pyproject-hooks",
     "requests-toolbelt",
+    "requests<2.30.0",
     "unearth>=0.9.0",
     "findpython>=0.2.2",
     "tomlkit>=0.11.1,<1",
